@@ -12,7 +12,7 @@
 }
 .container header,
 .container footer {
-    background: blue;
+    background: bluegit;
     grid-column: 1/11;
 }
 .container main {
