@@ -12,7 +12,7 @@
 }
 .container header,
 .container footer {
-    background: yellow;
+    background: blue;
     grid-column: 1/11;
 }
 .container main {
