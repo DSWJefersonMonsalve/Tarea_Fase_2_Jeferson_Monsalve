@@ -16,7 +16,7 @@
     grid-column: 1/11;
 }
 .container main {
-    background-color: #f4f4f4;
+    background-color: blue;
     grid-column: 1/7;
 }
 .container aside {
